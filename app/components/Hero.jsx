@@ -11,11 +11,11 @@ const Hero = () => {
       <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-5 py-8 sm:py-32 md:py-48 md:flex-row md:space-x-4 md:text-left">
         <div className="md:mt-2 md:w-1/2">
           <Image
-            src="/dummy.jpg"
+            src="/profile.png"
             alt=""
             width={325}
             height={325}
-            className="rounded-full shadow-2xl ml-56 "
+            className="rounded-full shadow-2xl ml-56 opacity-100"
           />
         </div>
         <div className="md:mt-2 md:w-3/5">
