@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## A Dynamic and Visually appealing personal portfolio website using Next.js, React, and Tailwind CSS. This single-page website will showcase your professional profile, skills, services, and projects, providing visitors with a comprehensive overview of your expertise. - [Visit My Portfolio](https://www.sushanuchil.tech/)
 
 ## Getting Started
 
