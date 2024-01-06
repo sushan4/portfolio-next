@@ -15,8 +15,8 @@ const Contact = () => {
         </div>
         <div className="flex items-stretch justify-center">
           <div className="grid md:grid-cols-2">
-            <div className="h-full pr-6">
-              <p className="mt-3 mb-12 text-lg text-gray-600 dark:text-slate-400">
+            <div className="h-full pr-6 ">
+              <p className="mt-3 mb-12 text-lg text-gray-600 dark:text-slate-400 ">
                 Whether you want to get in touch, share an idea, or simply have a conversation, Im all ears! Feel free to shoot me an email, or take a moment to fill out the form on the right. I look forward to hearing from you!
               </p>
               <ul className="mb-6 md:mb-0">

@@ -15,7 +15,7 @@ const Hero = () => {
             alt=""
             width={325}
             height={325}
-            className="rounded-full shadow-2xl ml-56 opacity-100"
+            className="rounded-full shadow-2xl md:ml-56 opacity-100 sm:mx-auto"
           />
         </div>
         <div className="md:mt-2 md:w-3/5">

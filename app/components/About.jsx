@@ -2,7 +2,7 @@ const About=()=>{
     return(
         <div className="justify-center flex-1  py-4 mx-auto lg:py-6 md:px-6 mt-5" id="about">
 
-            <div className="flex flex-wrap ">
+            <div className="flex flex-wrap sm:items-center">
 
                 <div className="w-full px-4 mb-10 lg:w-1/2 lg:mb-0">
 
@@ -26,7 +26,7 @@ const About=()=>{
 
  I am dedicated to staying abreast of industry trends, ensuring that the solutions I deliver are both innovative and in line with current best practices.
 
-My approach is characterized by a focus on clean, maintainable code, and a keen eye for architecture that facilitates scalability. I am passionate about transforming ideas into tangible, high-quality results and thrive in collaborative, cross-functional environments.
+
 
                     </p>
 
